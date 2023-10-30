@@ -1,0 +1,93 @@
+
+<!doctype html>
+<html lang="en-US">
+  <head>
+
+    <meta data-rh="" charSet="utf-8"/><meta data-rh="" name="viewport" content="width=device-width, initial-scale=1"/><meta data-rh="" name="parsely-title" content="off-box.net: Archive"/><meta data-rh="" name="parsely-link" content="https://www.tumblr.com/archive"/><meta data-rh="" name="parsely-type" content="index"/><meta data-rh="" name="parsely-image-url"/><meta data-rh="" name="parsely-section"/><meta data-rh="" name="parsely-tags"/><meta data-rh="" name="parsely-author"/><meta data-rh="" name="parsely-pub-date"/><link data-rh="" rel="shortcut icon" href="https://64.media.tumblr.com/avatar_84ad59f62b7c_512.pnj"/><link data-rh="" rel="apple-touch-icon" sizes="180x180" href="https://assets.tumblr.com/pop/manifest/apple-touch-icon-e136aa32.png"/><title data-rh="">off-box.net: Archive</title><meta data-rh="" name="description" content="アナログゲーム創作グループ「オフ箱会」のWebサイトです。"/><meta data-rh="" name="keywords" content="tumblelog, blog, tumblog, tumbler, tumblr, tlog, microblog"/><meta data-rh="" name="twitter:card" content="app"/><meta data-rh="" name="twitter:site" content="@tumblr"/><meta data-rh="" name="twitter:app:id:iphone" content="305343404"/><meta data-rh="" name="twitter:app:id:ipad" content="305343404"/><meta data-rh="" name="twitter:app:id:googleplay" content="com.tumblr"/><meta data-rh="" property="og:title" content="off-box.net: Archive"/><meta data-rh="" property="og:description" content="アナログゲーム創作グループ「オフ箱会」のWebサイトです。"/><meta data-rh="" property="og:site_name" content="Tumblr"/><meta data-rh="" property="og:type" content="website"/>
+    <link rel="preload" type ="font/woff2" href="https://assets.tumblr.com/pop/src/assets/fonts/favorit/favorit-medium-fbc7316f.woff2" as="font" crossorigin />
+    <link rel="preload" type ="font/woff2" href="https://assets.tumblr.com/pop/src/assets/fonts/favorit/favorit-85-cf2f6136.woff2" as="font" crossorigin />
+    <link rel="preconnect" href="https://64.media.tumblr.com" />
+    <link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/pop/css/main-f615ae75.css" />
+    <link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/pop/archive-page-0a9adc0a.css" />
+    
+    <script type="text/javascript" async  nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM=">window.__tcfapi=function(){let e=[].slice.call(arguments),t=e[0],n=e[2];"ping"===t?"function"==typeof n&&n({gdprApplies:!1,cmpLoaded:!1,cmpStatus:"stub",displayStatus:"disabled",apiVersion:"2"}):"getTCData"!==t&&"addEventListener"!==t||"function"==typeof n&&n({gdprApplies:!1,tcfPolicyVersion:2,cmpId:258,cmpVersion:1},!0)},window.addEventListener("message",(function(e){let t="string"==typeof e.data,n={};try{n=t?JSON.parse(e.data):e.data}catch(e){}let a=n.__tcfapiCall;a&&window.__tcfapi(a.command,a.version,(function(n,c){let s={__tcfapiReturn:{returnValue:n,success:c,callId:a.callId}};t&&(s=JSON.stringify(s)),e&&e.source&&e.source.postMessage&&e.source.postMessage(s,"*")}),a.parameter)}),!1),document.addEventListener("DOMContentLoaded",(function(){!function(){const e=document.createElement("iframe");e.style.cssText="display:none",e.name="__tcfapiLocator",document.body.appendChild(e)}()}));</script>
+    
+      <script nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM=">
+        (function() {
+          var isModern = typeof Array.prototype.at === "function";
+          if (isModern) {
+            document.write(
+'              <script src="https://assets.tumblr.com/pop/js/modern/runtime-16d4154d.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>'+
+'              <script src="https://assets.tumblr.com/pop/js/modern/vendor-1399fdc3.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>'+
+'              <script src="https://assets.tumblr.com/pop/js/modern/main-257625bf.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>'+
+'              <script src="https://assets.tumblr.com/pop/js/modern/archive-page-7c252f35.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>');
+          } else {
+            document.write(
+'              <script src="https://assets.tumblr.com/pop/js/fallback/runtime-9d76c04d.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>'+
+'              <script src="https://assets.tumblr.com/pop/js/fallback/vendor-53f49b6d.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>'+
+'              <script src="https://assets.tumblr.com/pop/js/fallback/main-e0ff3123.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>'+
+'              <script src="https://assets.tumblr.com/pop/js/fallback/archive-page-5495e9be.js" defer crossorigin="anonymous" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM="></scr' + 'ipt>');
+          }
+        })();
+      </script>
+  </head>
+  <body id="tumblr" class="palette--trueBlue">
+    <div id="root"><style>:root {
+    --black: 0, 0, 0;
+    --white: 255, 255, 255;
+    --white-on-dark: 255, 255, 255;
+    --navy: 0, 25, 53;
+    --red: 255, 73, 48;
+    --orange: 255, 138, 0;
+    --yellow: 232, 215, 56;
+    --green: 0, 207, 53;
+    --blue: 0, 184, 255;
+    --purple: 124, 92, 255;
+    --pink: 255, 98, 206;
+
+    --accent: 0, 184, 255;
+    --secondary-accent: 229, 231, 234;
+    --follow: 243, 248, 251;
+
+    --color-title: rgb(var(--white-on-dark));
+    --color-text: rgb(var(--white-on-dark));
+    --color-subtext: rgb(var(--white-on-dark));
+    --color-primary-link: rgb(var(--accent));
+    --color-bluespace-background: rgb(var(--navy));
+    --color-bluespace-card-background: rgba(var(--white-on-dark), 0.07);
+    --color-modal-close-button: rgb(var(--navy));
+    --color-modal-close-button-background: rgb(var(--white-on-dark));
+
+    --font-family: 
+    "Favorit",
+    "Helvetica Neue",
+    "HelveticaNeue",
+    Helvetica,
+    Arial,
+    sans-serif
+  ;
+
+    --border-radius-small: 3px;
+  }
+</style><div id="base-container"><div class="Ty83o adsbygoogle Qrht9" id="adBanner" data-testid="adBlockTest"></div><div class="yX_UF"><style>body { background-color: #f2f2f2; }</style><div class="MCh64"><header class="gSfy_ MCh64 RrflF"><div class="axZNe"><a class="usfiq" href="page/1"><figure class="bH35Z"><svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" class="lHKgh" role="presentation" style="transform:rotate(0deg);transform-origin:center"><use href="#managed-icon__arrow"></use></svg><div class="nZ9l5" role="figure" aria-label="avatar"><div class="j4akp" style="width:26px;height:26px"><div class="ESMam ntiBu"><div class="HsI7c xJPGl" style="padding-bottom:100%;background:linear-gradient(to bottom left, #F0C597, #001935)"><img class="RoN4R" srcSet="https://64.media.tumblr.com/avatar_84ad59f62b7c_64.pnj 64w, https://64.media.tumblr.com/avatar_84ad59f62b7c_96.pnj 96w, https://64.media.tumblr.com/avatar_84ad59f62b7c_128.pnj 128w, https://64.media.tumblr.com/avatar_84ad59f62b7c_512.pnj 512w" sizes="26px" alt="Avatar" style="width:26px;height:26px" loading="eager"/></div></div></div></div><figcaption class="AoHEQ">off-box.net</figcaption></figure></a><div class="Clzyd" data-login-wall-type="archiveFilter" data-login-wall-blog-name="off-p-box"><div class="BhPeV"></div><div class="DTmup"><span data-testid="controlled-popover-wrapper" class="BPf9u"><span class="BPf9u"><button class="c8yUu" tabindex="0" forwardedRef="[object Object]"><span class="lncIj undefined">Month</span><svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" role="presentation" style="--icon-color-primary:rgba(255, 255, 255, 0.65);transform:rotate(0deg);transform-origin:center"><use href="#managed-icon__caret-thin"></use></svg></button></span></span></div><div class="BhPeV"></div><div class="DTmup"><span data-testid="controlled-popover-wrapper" class="BPf9u"><span class="BPf9u"><button class="c8yUu" tabindex="0" forwardedRef="[object Object]"><span class="lncIj undefined">Post type</span><svg xmlns="http://www.w3.org/2000/svg" height="14" width="14" role="presentation" style="--icon-color-primary:rgba(255, 255, 255, 0.65);transform:rotate(0deg);transform-origin:center"><use href="#managed-icon__caret-thin"></use></svg></button></span></span></div></div></div><div class="ggBTJ"><div style="height:50px;width:250px"></div></div></header></div><div class="TlRfv"><div class="LQ3tN rCL4r OK2Wo" role="progressbar" aria-busy="true"><div class="OpTfa" style="background-color:#595959"></div><div class="OpTfa" style="background-color:#595959"></div><div class="OpTfa" style="background-color:#595959"></div></div></div></div><aside id="managed-icon-repository" style="width:0;height:0;overflow:hidden"><svg id="managed-icon__arrow" fill="var(--icon-color-primary, #ffffff)" viewBox="0 0 20 17">
+	<path d="M5.7 10.009l4.8 4.527c.2.2.2.603 0 .804L9 16.85c-.2.2-.6.2-.8 0L0 8.901v-.804L8.2.15c.2-.201.6-.201.8 0l1.5 1.509c.2.2.2.603 0 .804L5.7 6.991h13.4s.9.905.9 1.006v.905l-1 1.107H5.7z" />
+</svg>
+
+<svg id="managed-icon__caret-thin" fill="var(--icon-color-primary, #ffffff)" viewBox="0 0 15 9">
+  <path
+    d="M2.498 1.045a1.026 1.026 0 0 0-1.446.005 1.027 1.027 0 0 0 0 1.454l5.839 5.45a1.023 1.023 0 0 0 .83.29c-.017.004.02.006.057.006.27 0 .53-.106.726-.3l5.828-5.44a1.029 1.029 0 1 0-1.448-1.46l-5.19 4.845-5.196-4.85z" />
+</svg>
+
+<svg id="managed-icon__caret-thin-alt" fill="var(--icon-color-primary, #ffffff)"  viewBox="0 0 6 4">
+  <path
+    d="M3.296 3.878l2.457-2.453C6.28.899 5.907 0 5.163 0H.837C.093 0-.28.899.247 1.425l2.457 2.453a.419.419 0 00.592 0z" />
+</svg>
+</aside><div id="glass-container"></div></div></div>
+
+    <script type="text/javascript" nonce="MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM=">
+      window['___INITIAL_STATE___'] = {"cookieBootstrap":undefined,"routeSet":"blogNetwork","routeUsesPalette":false,"routeHidesLowerRightContent":false,"routeName":"archive-page","isInitialRequestPeepr":false,"isInitialRequestSSRModal":false,"viewport-monitor":{"height":800,"width":1280},"randomNumber":0.9854317484080817,"chunkNames":["archive-page"],"tumblelog":{"url":"https:\u002F\u002Foff-box.net\u002F","title":"off-box.net","avatar":[{"width":512,"height":512,"url":"https:\u002F\u002F64.media.tumblr.com\u002Favatar_84ad59f62b7c_512.pnj"},{"width":128,"height":128,"url":"https:\u002F\u002F64.media.tumblr.com\u002Favatar_84ad59f62b7c_128.pnj"},{"width":96,"height":96,"url":"https:\u002F\u002F64.media.tumblr.com\u002Favatar_84ad59f62b7c_96.pnj"},{"width":64,"height":64,"url":"https:\u002F\u002F64.media.tumblr.com\u002Favatar_84ad59f62b7c_64.pnj"}],"updated":1627005582,"firstPostTimestamp":1483541024,"description":"アナログゲーム創作グループ「オフ箱会」のWebサイトです。","name":"off-p-box","topTagsAll":[],"tweet":undefined},"queries":{"mutations":[],"queries":[{"state":{"data":{"isLoggedIn":false},"dataUpdateCount":1,"dataUpdatedAt":1698640785504,"error":null,"errorUpdateCount":0,"errorUpdatedAt":0,"fetchFailureCount":0,"fetchFailureReason":null,"fetchMeta":null,"isInvalidated":false,"status":"success","fetchStatus":"idle"},"queryKey":["user-info",false],"queryHash":"[\"user-info\",false]"}]},"apiUrl":"https:\u002F\u002Fapi.tumblr.com","apiFetchStore":{"API_TOKEN":"aIcXSOoTtqrzR8L8YEIOmBeW94c3FmbSNSWAUbxsny9KKx5VFh","extraHeaders":"{\"X-IS-BLOG-NETWORK\":\"1\"}"},"cspNonce":"MTVjYmJmZmFmZGIyYzhiMzM3NDE5MWQ3YTM3ZTM0YWM=","languageData":{"code":"en_US","data":{}},"configRef":{"flags":""},"reportingInfo":{"host":"","token":"1698640785527|ae49eb9a9b01c995caadd173f88b84cd"},"analyticsInfo":{"kraken":{"basePage":"Archive","routeSet":"blogNetwork","krakenBaseUrl":"","sessionId":"c0cb79df-3871-4526-a444-c198c7f860bb","clientDetails":{"platform":"Redpop","os_name":"linux","os_version":undefined,"language":"en_US","build_version":"4a64c4e147628af84976b60d5231c77fb50d19d6","form_factor":"Desktop","model":"","connection":"","carrier":"","browser_name":undefined,"browser_version":undefined},"configRef":{"flags":""}}},"tumblelogAuthToken":undefined,"adPlacementConfiguration":{},"privacy":{},"endlessScrollingDisabled":undefined,"bestStuffFirstDisabled":undefined,"colorizedTags":undefined,"autoTruncatingPosts":undefined,"timestamps":undefined,"communityLabelVisibilitySetting":undefined,"labsSettings":undefined,"liveStreaming":undefined,"wwwBaseUrl":"https:\u002F\u002Fwww.tumblr.com","isLoggedIn":{"isPartiallyRegistered":undefined,"isLoggedIn":false,"isAdmin":undefined},"recaptchaV3PublicKey":{"value":"6Ld2ca0UAAAAAKzttOGcjomH-5rBIJesbQrCZtfB"},"vapidPublicKey":{"value":"BBDh-66UWJ5mfoWvDjX5hRaKUYcwykutJHf4-f4oonC44K7wkRPtHi-BsLW7wPPMNLnju7fWMjpfwiOsZlU1LE0"},"tmgliveStagingWebPaymentsCredentials":{"value":"dHVtYmxyOnNlY3JldA=="},"obfuscatedFeatures":"e30=","supportedBrowserRegexp":new RegExp("Edge?\\\u002F(1{2}[7-9]|1[2-9]\\d|[2-9]\\d{2}|\\d{4,})(\\.\\d+|)(\\.\\d+|)|Firefox\\\u002F(5[2-9]|[6-9]\\d|\\d{3,})\\.\\d+(\\.\\d+|)|Chrom(ium|e)\\\u002F(5[7-9]|[6-9]\\d|\\d{3,})\\.\\d+(\\.\\d+|)([\\d.]+$|.*Safari\\\u002F(?![\\d.]+ Edge\\\u002F[\\d.]+$))|Maci.+ Version\\\u002F([1-9]\\d|\\d{3,})\\.\\d+([,.]\\d+|)( Mobile\\\u002F\\w+|) Safari\\\u002F|Chrome.+OPR\\\u002F(10[2-9]|1[1-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+\\.\\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+([1-9]\\d|\\d{3,})[._]\\d+([._]\\d+|)|Opera Mini|Android:?[ \u002F-](1{2}[89]|1[2-9]\\d|[2-9]\\d{2}|\\d{4,})(\\.\\d+|)(\\.\\d+|)|Mobile Safari.+OPR\\\u002F(7[3-9]|[89]\\d|\\d{3,})\\.\\d+\\.\\d+|Android.+Firefox\\\u002F(1{2}[89]|1[2-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Android.+Chrom(ium|e)\\\u002F(1{2}[89]|1[2-9]\\d|[2-9]\\d{2}|\\d{4,})\\.\\d+(\\.\\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ \u002F]?(1[5-9]|[2-9]\\d|\\d{3,})\\.\\d+\\.\\d+|SamsungBrowser\\\u002F(2[1-9]|[3-9]\\d|\\d{3,})\\.\\d+|Android.+MQ{2}Browser\\\u002F(1[3-9]|[2-9]\\d|\\d{3,})(\\.\\d+|)(\\.\\d+|)|K[Aa][Ii]OS\\\u002F([2-9]|\\d{2,})\\.\\d+(\\.\\d+|)", ""),"cssMapUrl":"https:\u002F\u002Fassets.tumblr.com\u002Fpop\u002Fcssmap-999a36ec.json"};
+    </script>
+    
+    
+  </body>
+</html>

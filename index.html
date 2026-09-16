@@ -9,11 +9,12 @@
 
 <body>
 
-    <div class="relative group">
-        <button class="bg-blue-500 text-white font-bold py-2 px-4 rounded">
+    <details class="relative inline-block">
+        <summary
+            class="list-none [&::-webkit-details-marker]:hidden cursor-pointer select-none bg-blue-500 text-white font-bold py-2 px-4 rounded">
             Language
-        </button>
-        <div class="absolute hidden group-hover:block bg-white text-gray-700 pt-2">
+        </summary>
+        <div class="absolute left-0 z-10 mt-2 rounded border border-gray-200 bg-white text-gray-700 shadow-lg">
             <a href="/en" class="block px-8 py-2 hover:bg-gray-100">
                 English
             </a>
@@ -24,7 +25,14 @@
                 繁體中文
             </a>
         </div>
-    </div>
+    </details>
+    <script>
+        document.addEventListener('click', function (e) {
+            document.querySelectorAll('details[open]').forEach(function (d) {
+                if (!d.contains(e.target)) d.removeAttribute('open');
+            });
+        });
+    </script>
 
 
     <div class="bg-white py-6 sm:py-8 lg:py-12">
